@@ -1,7 +1,12 @@
 <!-- Profile README for github.com/sina-hpk -->
+<!-- Header Typing -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=28&duration=3000&pause=600&center=true&vCenter=true&multiline=true&width=720&height=90&lines=Hi%2C+I'm+Sina+%F0%9F%91%8B;AI%2FML+%E2%80%A2+EEG+Emotion+%E2%80%A2+EE+%40+KNTU" alt="Typing SVG" />
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=28&duration=1500&pause=2000&center=true&vCenter=true&width=480&height=45&lines=Hi%2C+I'm+Sina+%F0%9F%91%8B&repeat=false"
+    alt="Typing Intro"
+/>
 </p>
+
 
 <p align="center">
   <a href="https://t.me/sina_hpk"><img alt="Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram&logoColor=white"></a>
@@ -23,35 +28,28 @@
 
 ---
 
-## 🧩 Selected Projects (visual)
-<table>
-  <tr>
-    <td>
-      <a href="https://github.com/sina-hpk/Ai_All_mini_projects">
-        <img src="https://socialify.git.ci/sina-hpk/Ai_All_mini_projects/image?description=1&font=Inter&language=1&name=1&owner=1&pattern=Floating%20Cogs&theme=Dark" alt="AI4032 – Mini Projects" />
-      </a>
-    </td>
-    <td>
-      <a href="https://github.com/sina-hpk/learn-ai-by-projects">
-        <img src="https://socialify.git.ci/sina-hpk/learn-ai-by-projects/image?description=1&font=Inter&language=1&name=1&owner=1&pattern=Signal&theme=Dark" alt="Learn AI by Projects" />
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <a href="https://github.com/sina-hpk/video-duration-calculator">
-        <img src="https://socialify.git.ci/sina-hpk/video-duration-calculator/image?description=1&font=Inter&language=1&name=1&owner=1&pattern=Diagonal%20Stripes&theme=Dark" alt="Video Duration Calculator" />
-      </a>
-    </td>
-    <td>
-      <a href="https://github.com/sina-hpk/Emotion-recognition-DEAP-LSTM-SHAP">
-        <img src="https://socialify.git.ci/sina-hpk/Emotion-recognition-DEAP-LSTM-SHAP/image?description=1&font=Inter&language=1&name=1&owner=1&pattern=Overlap&theme=Dark" alt="EEG Emotion (DEAP, LSTM + SHAP)" />
-      </a>
-    </td>
-  </tr>
-</table>
+## 🧩 Selected Projects
 
-> Tip: برای هر ریپو داخل **Settings → Social preview** هم یک کاور اختصاصی آپلود کن تا شیئرش شیک‌تر شود.
+<p align="center">
+  <a href="https://github.com/sina-hpk/Ai_All_mini_projects">
+    <img src="https://socialify.git.ci/sina-hpk/Ai_All_mini_projects/image?name=1&description=0&owner=0&language=0&pattern=Floating%20Cogs&theme=Dark" width="360" alt="AI4032 – Mini Projects" />
+  </a>
+  <a href="https://github.com/sina-hpk/learn-ai-by-projects">
+    <img src="https://socialify.git.ci/sina-hpk/learn-ai-by-projects/image?name=1&description=0&owner=0&language=0&pattern=Signal&theme=Dark" width="360" alt="Learn AI by Projects" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/sina-hpk/video-duration-calculator">
+    <img src="https://socialify.git.ci/sina-hpk/video-duration-calculator/image?name=1&description=0&owner=0&language=0&pattern=Diagonal%20Stripes&theme=Dark" width="360" alt="Video Duration Calculator" />
+  </a>
+  <a href="https://github.com/sina-hpk/Emotion-recognition-DEAP-LSTM-SHAP">
+    <img src="https://socialify.git.ci/sina-hpk/Emotion-recognition-DEAP-LSTM-SHAP/image?name=1&description=0&owner=0&language=0&pattern=Overlap&theme=Dark" width="360" alt="EEG Emotion (DEAP, LSTM + SHAP)" />
+  </a>
+</p>
+
+<!-- Optional: If you want it even cleaner, keep only the first row and move the second row into a collapsible section. -->
+
 
 ---
 
