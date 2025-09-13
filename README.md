@@ -21,10 +21,8 @@
 
 ---
 
-- 🧠 Interpretable **EEG Emotion** (xAI/SHAP/Prototypes)
-- 🧪 From **notebook → package → demo** (docs & CI-friendly)
-- 🎯 2025 focus: **clean repos**, **solid READMEs**, **GIF demos**
-
+EE × CS • Python & AI builder • Tooling nerd who ships small, useful things.
+Always building, learning, and staying creative.
 ---
 
 ## 🧩 Selected Projects (visual)
@@ -83,13 +81,6 @@
 <img src="https://img.shields.io/badge/SHAP-8A2BE2" />
 <img src="https://img.shields.io/badge/Time--Series-556B2F" />
 </details>
-
----
-
-## 🚀 What I'm Building Now
-- 📦 Converting notebooks → reusable modules with examples
-- 📊 Adding GIF demos & better repo Social Previews
-- 🧩 Interpretable EEG pipelines (LSTM + SHAP; prototype-based ideas)
 
 ---
 
