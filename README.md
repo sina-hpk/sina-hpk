@@ -30,45 +30,73 @@
 <div align="center">
   <table>
     <tr>
-      <td style="padding:6px;">
+      <!-- AI4032 – Mini Projects -->
+      <td style="padding:2px;">
         <a href="https://github.com/sina-hpk/Ai_All_mini_projects">
           <img
             src="https://socialify.git.ci/sina-hpk/Ai_All_mini_projects/image?name=1&description=0&owner=0&language=0&pattern=Floating%20Cogs&theme=Dark"
             alt="AI4032 – Mini Projects"
-            width="220" height="120"
-            style="object-fit:cover;border-radius:14px;border:2px solid #7C3AED;"
+            width="235" height="120"
+            style="object-fit:cover;border-radius:12px;border:2px solid #7C3AED;"
           />
         </a>
+        <div style="margin-top:4px;">
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="16" alt="Python"/>
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="16" alt="Jupyter"/>
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="16" alt="Pandas"/>
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="16" alt="NumPy"/>
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" height="16" alt="scikit-learn"/>
+        </div>
       </td>
-      <td style="padding:6px;">
+
+      <!-- Learn AI by Projects -->
+      <td style="padding:2px;">
         <a href="https://github.com/sina-hpk/learn-ai-by-projects">
           <img
             src="https://socialify.git.ci/sina-hpk/learn-ai-by-projects/image?name=1&description=0&owner=0&language=0&pattern=Signal&theme=Dark"
             alt="Learn AI by Projects"
-            width="220" height="120"
-            style="object-fit:cover;border-radius:14px;border:2px solid #10B981;"
+            width="235" height="120"
+            style="object-fit:cover;border-radius:12px;border:2px solid #10B981;"
           />
         </a>
+        <div style="margin-top:4px;">
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="16" alt="Python"/>
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="16" alt="PyTorch"/>
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" height="16" alt="scikit-learn"/>
+        </div>
       </td>
-      <td style="padding:6px;">
+
+      <!-- Video Duration Calculator -->
+      <td style="padding:2px;">
         <a href="https://github.com/sina-hpk/video-duration-calculator">
           <img
             src="https://socialify.git.ci/sina-hpk/video-duration-calculator/image?name=1&description=0&owner=0&language=0&pattern=Diagonal%20Stripes&theme=Dark"
             alt="Video Duration Calculator"
-            width="220" height="120"
-            style="object-fit:cover;border-radius:14px;border:2px solid #F59E0B;"
+            width="235" height="120"
+            style="object-fit:cover;border-radius:12px;border:2px solid #F59E0B;"
           />
         </a>
+        <div style="margin-top:4px;">
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="16" alt="Python"/>
+          <span style="font-size:14px;">🎬</span>
+        </div>
       </td>
-      <td style="padding:6px;">
+
+      <!-- EEG Emotion (DEAP, LSTM + SHAP) -->
+      <td style="padding:2px;">
         <a href="https://github.com/sina-hpk/Emotion-recognition-DEAP-LSTM-SHAP">
           <img
             src="https://socialify.git.ci/sina-hpk/Emotion-recognition-DEAP-LSTM-SHAP/image?name=1&description=0&owner=0&language=0&pattern=Overlap&theme=Dark"
             alt="EEG Emotion (DEAP, LSTM + SHAP)"
-            width="220" height="120"
-            style="object-fit:cover;border-radius:14px;border:2px solid #3B82F6;"
+            width="235" height="120"
+            style="object-fit:cover;border-radius:12px;border:2px solid #3B82F6;"
           />
         </a>
+        <div style="margin-top:4px;">
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="16" alt="Python"/>
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="16" alt="PyTorch"/>
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="16" alt="NumPy"/>
+        </div>
       </td>
     </tr>
   </table>
