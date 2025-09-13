@@ -21,8 +21,9 @@
 
 ---
 
-EE × CS • Python & AI builder • Tooling nerd who ships small, useful things.
-Always building, learning, and staying creative.
+> *EE × CS • Python & AI builder • Tooling nerd who ships small, useful things.*  
+> *Always building, learning, and staying creative.*
+
 ---
 
 ## 🧩 Selected Projects (visual)
