@@ -34,8 +34,8 @@
   <a href="https://github.com/sina-hpk/Ai_All_mini_projects">
     <img src="https://socialify.git.ci/sina-hpk/Ai_All_mini_projects/image?name=1&description=0&owner=0&language=0&pattern=Floating%20Cogs&theme=Dark" width="360" alt="AI4032 – Mini Projects" />
   </a>
-  <a href="https://github.com/sina-hpk/learn-ai-by-projects">
-    <img src="https://socialify.git.ci/sina-hpk/learn-ai-by-projects/image?name=1&description=0&owner=0&language=0&pattern=Signal&theme=Dark" width="360" alt="Learn AI by Projects" />
+  <a href="https://github.com/sina-hpk/Emotion-recognition-DEAP-LSTM-SHAP">
+    <img src="https://socialify.git.ci/sina-hpk/Emotion-recognition-DEAP-LSTM-SHAP/image?name=1&description=0&owner=0&language=0&pattern=Overlap&theme=Dark" width="360" alt="EEG Emotion (DEAP, LSTM + SHAP)" />
   </a>
 </p>
 <details>
@@ -44,8 +44,8 @@
   <a href="https://github.com/sina-hpk/video-duration-calculator">
     <img src="https://socialify.git.ci/sina-hpk/video-duration-calculator/image?name=1&description=0&owner=0&language=0&pattern=Diagonal%20Stripes&theme=Dark" width="360" alt="Video Duration Calculator" />
   </a>
-  <a href="https://github.com/sina-hpk/Emotion-recognition-DEAP-LSTM-SHAP">
-    <img src="https://socialify.git.ci/sina-hpk/Emotion-recognition-DEAP-LSTM-SHAP/image?name=1&description=0&owner=0&language=0&pattern=Overlap&theme=Dark" width="360" alt="EEG Emotion (DEAP, LSTM + SHAP)" />
+  <a href="https://github.com/sina-hpk/learn-ai-by-projects">
+    <img src="https://socialify.git.ci/sina-hpk/learn-ai-by-projects/image?name=1&description=0&owner=0&language=0&pattern=Signal&theme=Dark" width="360" alt="Learn AI by Projects" />
   </a>
 </p></details>
 
