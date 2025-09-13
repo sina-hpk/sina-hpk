@@ -31,13 +31,13 @@
   <table>
     <tr>
       <!-- AI4032 – Mini Projects -->
-      <td style="padding:2px;">
+      <td style="padding:1px;">
         <a href="https://github.com/sina-hpk/Ai_All_mini_projects">
           <img
             src="https://socialify.git.ci/sina-hpk/Ai_All_mini_projects/image?name=1&description=0&owner=0&language=0&pattern=Floating%20Cogs&theme=Dark"
             alt="AI4032 – Mini Projects"
             width="235" height="120"
-            style="object-fit:cover;border-radius:12px;border:2px solid #7C3AED;"
+            style="object-fit:cover;border-radius:12px;border:1px solid #7C3AED;"
           />
         </a>
         <div style="margin-top:4px;">
@@ -49,13 +49,13 @@
         </div>
       </td>
 <!-- Learn AI by Projects -->
-      <td style="padding:2px;">
+      <td style="padding:1px;">
         <a href="https://github.com/sina-hpk/learn-ai-by-projects">
           <img
             src="https://socialify.git.ci/sina-hpk/learn-ai-by-projects/image?name=1&description=0&owner=0&language=0&pattern=Signal&theme=Dark"
             alt="Learn AI by Projects"
             width="235" height="120"
-            style="object-fit:cover;border-radius:12px;border:2px solid #10B981;"
+            style="object-fit:cover;border-radius:12px;border:1px solid #10B981;"
           />
         </a>
         <div style="margin-top:4px;">
@@ -65,13 +65,13 @@
         </div>
       </td>
 <!-- Video Duration Calculator -->
-      <td style="padding:2px;">
+      <td style="padding:1px;">
         <a href="https://github.com/sina-hpk/video-duration-calculator">
           <img
             src="https://socialify.git.ci/sina-hpk/video-duration-calculator/image?name=1&description=0&owner=0&language=0&pattern=Diagonal%20Stripes&theme=Dark"
             alt="Video Duration Calculator"
             width="235" height="120"
-            style="object-fit:cover;border-radius:12px;border:2px solid #F59E0B;"
+            style="object-fit:cover;border-radius:12px;border:1px solid #F59E0B;"
           />
         </a>
         <div style="margin-top:4px;">
@@ -80,13 +80,13 @@
         </div>
       </td>
 <!-- EEG Emotion (DEAP, LSTM + SHAP) -->
-      <td style="padding:2px;">
+      <td style="padding:1px;">
         <a href="https://github.com/sina-hpk/Emotion-recognition-DEAP-LSTM-SHAP">
           <img
             src="https://socialify.git.ci/sina-hpk/Emotion-recognition-DEAP-LSTM-SHAP/image?name=1&description=0&owner=0&language=0&pattern=Overlap&theme=Dark"
             alt="EEG Emotion (DEAP, LSTM + SHAP)"
             width="235" height="120"
-            style="object-fit:cover;border-radius:12px;border:2px solid #3B82F6;"
+            style="object-fit:cover;border-radius:12px;border:1px solid #3B82F6;"
           />
         </a>
         <div style="margin-top:4px;">
