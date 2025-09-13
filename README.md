@@ -2,7 +2,7 @@
 <!-- Header Typing -->
 <p align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=28&duration=1500&pause=2000&center=true&vCenter=true&width=480&height=45&lines=Hi%2C+I'm+Sina+%F0%9F%91%8B&repeat=false"
+    src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=28&duration=2500&pause=2000&center=true&vCenter=true&width=480&height=45&lines=Hi%2C+I'm+Sina+%F0%9F%91%8B&repeat=false"
     alt="Typing Intro"
 />
 </p>
@@ -16,7 +16,7 @@
 </p>
 
 <p align="center">
-  <em>Creativity × Logic — turning ideas into polished, reproducible demos.</em>
+  <em>“The only way to do great work is to love what you do.” (Steve Jobs)</em>
 </p>
 
 ---
