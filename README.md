@@ -21,7 +21,6 @@
 
 ---
 
-## ✨ Highlights
 - 🧠 Interpretable **EEG Emotion** (xAI/SHAP/Prototypes)
 - 🧪 From **notebook → package → demo** (docs & CI-friendly)
 - 🎯 2025 focus: **clean repos**, **solid READMEs**, **GIF demos**
