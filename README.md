@@ -24,37 +24,44 @@
 > *EE × CS • Python & AI builder • Tooling nerd who ships small, useful things.*  
 > *Always building, learning, and staying creative.*
 
----
 
-## 🧩 Selected Projects (visual)
-<table>
-  <tr>
-    <td>
-      <a href="https://github.com/sina-hpk/Ai_All_mini_projects">
-        <img src="https://socialify.git.ci/sina-hpk/Ai_All_mini_projects/image?description=0&font=Inter&language=1&name=1&owner=1&pattern=Floating%20Cogs&theme=Dark" alt="AI4032 – Mini Projects" />
-      </a>
-    </td>
-    <td>
-      <a href="https://github.com/sina-hpk/learn-ai-by-projects">
-        <img src="https://socialify.git.ci/sina-hpk/learn-ai-by-projects/image?description=0&font=Inter&language=1&name=1&owner=1&pattern=Signal&theme=Dark" alt="Learn AI by Projects" />
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <a href="https://github.com/sina-hpk/video-duration-calculator">
-        <img src="https://socialify.git.ci/sina-hpk/video-duration-calculator/image?description=0&font=Inter&language=1&name=1&owner=1&pattern=Diagonal%20Stripes&theme=Dark" alt="Video Duration Calculator" />
-      </a>
-    </td>
-    <td>
-      <a href="https://github.com/sina-hpk/Emotion-recognition-DEAP-LSTM-SHAP">
-        <img src="https://socialify.git.ci/sina-hpk/Emotion-recognition-DEAP-LSTM-SHAP/image?description=0&font=Inter&language=1&name=1&owner=1&pattern=Overlap&theme=Dark" alt="EEG Emotion (DEAP, LSTM + SHAP)" />
-      </a>
-    </td>
-  </tr>
-</table>
+## 🧩 Selected Projects
 
+<div align="center">
 
+  <a href="https://github.com/sina-hpk/Ai_All_mini_projects" style="display:inline-block;margin:6px;">
+    <img
+      src="https://socialify.git.ci/sina-hpk/Ai_All_mini_projects/image?name=1&description=0&owner=0&language=0&pattern=Floating%20Cogs&theme=Dark"
+      alt="AI4032 – Mini Projects"
+      style="height:140px;width:360px;object-fit:cover;border-radius:16px;border:2px solid #7C3AED;box-shadow:0 4px 12px rgba(0,0,0,.08);"
+    />
+  </a>
+
+  <a href="https://github.com/sina-hpk/learn-ai-by-projects" style="display:inline-block;margin:6px;">
+    <img
+      src="https://socialify.git.ci/sina-hpk/learn-ai-by-projects/image?name=1&description=0&owner=0&language=0&pattern=Signal&theme=Dark"
+      alt="Learn AI by Projects"
+      style="height:140px;width:360px;object-fit:cover;border-radius:16px;border:2px solid #10B981;box-shadow:0 4px 12px rgba(0,0,0,.08);"
+    />
+  </a>
+
+  <a href="https://github.com/sina-hpk/video-duration-calculator" style="display:inline-block;margin:6px;">
+    <img
+      src="https://socialify.git.ci/sina-hpk/video-duration-calculator/image?name=1&description=0&owner=0&language=0&pattern=Diagonal%20Stripes&theme=Dark"
+      alt="Video Duration Calculator"
+      style="height:140px;width:360px;object-fit:cover;border-radius:16px;border:2px solid #F59E0B;box-shadow:0 4px 12px rgba(0,0,0,.08);"
+    />
+  </a>
+
+  <a href="https://github.com/sina-hpk/Emotion-recognition-DEAP-LSTM-SHAP" style="display:inline-block;margin:6px;">
+    <img
+      src="https://socialify.git.ci/sina-hpk/Emotion-recognition-DEAP-LSTM-SHAP/image?name=1&description=0&owner=0&language=0&pattern=Overlap&theme=Dark"
+      alt="EEG Emotion (DEAP, LSTM + SHAP)"
+      style="height:140px;width:360px;object-fit:cover;border-radius:16px;border:2px solid #3B82F6;box-shadow:0 4px 12px rgba(0,0,0,.08);"
+    />
+  </a>
+
+</div>
 
 <!-- Optional: If you want it even cleaner, keep only the first row and move the second row into a collapsible section. -->
 
