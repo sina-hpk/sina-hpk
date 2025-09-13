@@ -9,7 +9,7 @@
 
 
 <p align="center">
-  <a href="https://t.me/sina_hpk"><img alt="Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram&logoColor=white"></a>
+  <a href="https://t.me/Sina_clubino"><img alt="Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram&logoColor=white"></a>
   <a href="https://www.youtube.com/@sina_hpk"><img alt="YouTube" src="https://img.shields.io/badge/YouTube-FF0000?logo=youtube&logoColor=white"></a>
   <a href="mailto:sinahp2004@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Contact-Email-informational"></a>
   <img alt="Visitors" src="https://komarev.com/ghpvc/?username=sina-hpk&style=flat-square" />
@@ -148,7 +148,7 @@
 
 ## 🤝 Let’s Connect
 - Telegram: <a href="https://t.me/sina_hpk">@sina_hpk</a>
-- Email: <a href="mailto:sinahp2004@gmail.com">YOUR_EMAIL_HERE</a>
+- Email: <a href="mailto:sinahp2004@gmail.com">sinahp2004@gmail.com</a>
 <!-- Add LinkedIn or website when ready -->
 
 <details>
