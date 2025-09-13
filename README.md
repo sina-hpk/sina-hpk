@@ -48,8 +48,7 @@
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" height="16" alt="scikit-learn"/>
         </div>
       </td>
-
-      <!-- Learn AI by Projects -->
+<!-- Learn AI by Projects -->
       <td style="padding:2px;">
         <a href="https://github.com/sina-hpk/learn-ai-by-projects">
           <img
@@ -65,8 +64,7 @@
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" height="16" alt="scikit-learn"/>
         </div>
       </td>
-
-      <!-- Video Duration Calculator -->
+<!-- Video Duration Calculator -->
       <td style="padding:2px;">
         <a href="https://github.com/sina-hpk/video-duration-calculator">
           <img
@@ -81,8 +79,7 @@
           <span style="font-size:14px;">🎬</span>
         </div>
       </td>
-
-      <!-- EEG Emotion (DEAP, LSTM + SHAP) -->
+<!-- EEG Emotion (DEAP, LSTM + SHAP) -->
       <td style="padding:2px;">
         <a href="https://github.com/sina-hpk/Emotion-recognition-DEAP-LSTM-SHAP">
           <img
